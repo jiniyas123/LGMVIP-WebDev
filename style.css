@@ -5,25 +5,27 @@
 }
 #main{
   font-family: 'Roboto', sans-serif;
-  width:900px;
+  width:56.25rem;
   margin-left:auto;
   margin-right:auto;
-  padding: 30px;
+  padding: 1.875rem;
+  max-width: 100%
 }
 ul {
   list-style-type: none;
   margin: 0;
-  padding-top: 40px;
+  padding-top: 2.5rem;
   overflow: hidden;
-  width: 900px;
+  width: 56.25rem;
   margin-left:auto;
   margin-right:auto;
+  max-width: 100%;
 }
 #second{
   margin: 0;
   padding: 0;
 
-  width: 900px;
+  width: 56.25rem;
   margin-left:auto;
   margin-right:auto;
 }
@@ -46,21 +48,23 @@ section>ul>li a:hover {
   color: #17F0A9;
 }
 #quote{
-  width: 900px;
+  width: 56.25rem;
   margin-left:auto;
   margin-right:auto;
   font-weight:Bold ;
-  font-size: 30px;
+  font-size: 1.875rem;
   text-align: left;
   color: #fff;
+  max-width: 100%;
 }
 #brief_summ{
-  width: 900px;
+  width: 56.25rem;
   margin-left:auto;
   margin-right:auto;
   font-weight: lighter;
   color: #eee;
-  font-size: 20px;
+  font-size: 1.25rem;
+  max-width:100%;
 }
 section1>ul>li>a:hover{
   background-color:#062B05;
@@ -78,13 +82,15 @@ section1>ul>li>a:hover{
 }
 #heading{
   text-align: center;
-  text-size:30px;
+  text-size:1.875rem;
+  max-width:100%;
 }
 #second_des_logo{
   position:center;
 }
 #second{
   font-family: 'Roboto', sans-serif;
+  max-width:100%;
 }
 .button {
   background-color: #4CAF50;
@@ -103,9 +109,9 @@ section3>div>a:hover{
 }
 .logo{
   margin:0;
-  padding-left: 20px;
-  padding-right:20px;
-  padding-bottom: 20px;
+  padding-left: 1.25rem;
+  padding-right:1.25rem;
+  padding-bottom: 1.25rem;
 }
 .column {
   float: left;
@@ -133,10 +139,10 @@ section4>div{
 }
 #pricing_table{
   font-family: 'Roboto', sans-serif;
-  width:900px;
-  margin-left:520px;
+  width:30rem;
+  margin-left:auto;
   margin-right:auto;
-  padding: 0;
+  padding: 1.875rem;
 }
 section5>div>a:hover{
   background-color: #062B05;
