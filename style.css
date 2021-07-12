@@ -68,6 +68,7 @@ section>ul>li a:hover {
 }
 section1>ul>li>a:hover{
   background-color:#062B05;
+  max-width: 100;
 }
 
 #main {
@@ -78,7 +79,7 @@ section1>ul>li>a:hover{
   background-position:top;
   width: 96.07%;
   background-size:100% 100%;
-
+  max-width: 100%;
 }
 #heading{
   text-align: center;
@@ -87,6 +88,7 @@ section1>ul>li>a:hover{
 }
 #second_des_logo{
   position:center;
+  max-width:100%;
 }
 #second{
   font-family: 'Roboto', sans-serif;
@@ -103,39 +105,48 @@ section1>ul>li>a:hover{
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  max-width: 100%;
 }
 section3>div>a:hover{
   background-color: #062B05;
+  max-width: 100;
 }
 .logo{
   margin:0;
   padding-left: 1.25rem;
   padding-right:1.25rem;
   padding-bottom: 1.25rem;
+  max-width: 100%;
 }
 .column {
   float: left;
   width: 25%;
   padding: 0;
+  max-width: 100%;
 }
 .row:after {
   content: "";
   display: table;
   clear: both;
+  max-width: 100%;
 }
 .third{
   margin:0;
   padding:0;
   font-family: 'Roboto', sans-serif;
+  max-width: 100%;
 }
 section4>div>a:hover{
   background-color: #062B05;
+  max-width: 100%;
 }
 section4> div:hover{
   background-color: #FFC300;
+  max-width: 100%;
 }
 section4>div{
   background-color: #DAF7A6;
+  max-width: 100%;
 }
 #pricing_table{
   font-family: 'Roboto', sans-serif;
@@ -143,12 +154,15 @@ section4>div{
   margin-left:auto;
   margin-right:auto;
   padding: 1.875rem;
+  max-width: 100%;
 }
 section5>div>a:hover{
   background-color: #062B05;
+  max-width: 100%;
 }
 #division{
   border-right: 1px solid #C0C0C0;
+  max-width: 100%;
 }
 .but {
   background-color: #4CAF50;
@@ -161,4 +175,5 @@ section5>div>a:hover{
   font-size: 13px;
   margin: 4px 2px;
   cursor: pointer;
+  max-width: 100%;
 }
