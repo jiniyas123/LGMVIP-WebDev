@@ -9,7 +9,7 @@
   margin-left:auto;
   margin-right:auto;
   padding: 1.875rem;
-  max-width: 100%
+  max-width: 100%;
 }
 ul {
   list-style-type: none;
@@ -77,7 +77,7 @@ section1>ul>li>a:hover{
   background-repeat: no-repeat;
   background-attachment:scroll;
   background-position:top;
-  width: 96.07%;
+  width:91.188rem;
   background-size:100% 100%;
   max-width: 100%;
 }
@@ -116,7 +116,7 @@ section3>div>a:hover{
   padding-left: 1.25rem;
   padding-right:1.25rem;
   padding-bottom: 1.25rem;
-  max-width: 100%;
+
 }
 .column {
   float: left;
